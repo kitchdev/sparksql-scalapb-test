@@ -25,7 +25,7 @@ object RunDemo extends App {
     // to work:
     sqlContext.protoToDataFrame(persons).registerTempTable("persons")
 
-    sqlContext.sql("SELECT name, age, size(addresses) FROM persons WHERE age > 30")
+    sqlContext.sql("SELECT name, age, size(addresses) FROM persons WHERE age > 0")
       .collect
       .foreach(println)
 }
