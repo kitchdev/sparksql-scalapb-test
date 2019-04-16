@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0mCompiling 2 protobuf files to /home/mathew/Documents/tutorials/sparksql-scalapb-test/target/scala-2.11/src_managed/main,/home/mathew/Documents/tutorials/sparksql-scalapb-test/target/scala-2.11/src_managed/main[0m
+[0m[[0mdebug[0m] [0mprotoc options:[0m
+[0m[[0minfo[0m] [0mCompiling schema /home/mathew/Documents/tutorials/sparksql-scalapb-test/src/main/protobuf/demo.proto[0m
+[0m[[0minfo[0m] [0mCompiling schema /home/mathew/Documents/tutorials/sparksql-scalapb-test/src/main/protobuf/helloWorld.proto[0m
+[0m[[0minfo[0m] [0mCompiling protobuf[0m
+[0m[[0minfo[0m] [0mProtoc target directory: /home/mathew/Documents/tutorials/sparksql-scalapb-test/target/scala-2.11/src_managed/main[0m
+[0m[[0minfo[0m] [0mProtoc target directory: /home/mathew/Documents/tutorials/sparksql-scalapb-test/target/scala-2.11/src_managed/main[0m

@@ -1,0 +1,36 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set(/home/mathew/Documents/tutorials/sparksql-scalapb-test/src/main/scala/PrepareFile.scala, /home/mathew/Documents/tutorials/sparksql-scalapb-test/src/main/scala/RunDemo.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/mathew/Documents/tutorials/sparksql-scalapb-test/src/main/scala/PrepareFile.scala, /home/mathew/Documents/tutorials/sparksql-scalapb-test/src/main/scala/RunDemo.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/mathew/Documents/tutorials/sparksql-scalapb-test/src/main/scala/PrepareFile.scala, /home/mathew/Documents/tutorials/sparksql-scalapb-test/src/main/scala/RunDemo.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/mathew/Documents/tutorials/sparksql-scalapb-test/src/main/scala/PrepareFile.scala, /home/mathew/Documents/tutorials/sparksql-scalapb-test/src/main/scala/RunDemo.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/mathew/Documents/tutorials/sparksql-scalapb-test/src/main/scala/PrepareFile.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/mathew/Documents/tutorials/sparksql-scalapb-test/src/main/scala/PrepareFile.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/mathew/Documents/tutorials/sparksql-scalapb-test/src/main/scala/PrepareFile.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/mathew/Documents/tutorials/sparksql-scalapb-test/src/main/scala/PrepareFile.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/mathew/Documents/tutorials/sparksql-scalapb-test/src/main/scala/PrepareFile.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, persons, $isInstanceOf, main, notifyAll, isInstanceOf, ==, clone, toString, !=, getClass, ne, PrepareFile, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/mathew/Documents/tutorials/sparksql-scalapb-test/src/main/scala/RunDemo.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/mathew/Documents/tutorials/sparksql-scalapb-test/src/main/scala/RunDemo.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/mathew/Documents/tutorials/sparksql-scalapb-test/src/main/scala/RunDemo.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/mathew/Documents/tutorials/sparksql-scalapb-test/src/main/scala/RunDemo.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/mathew/Documents/tutorials/sparksql-scalapb-test/src/main/scala/RunDemo.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, RunDemo, asInstanceOf, executionStart, synchronized, persons, sc, $isInstanceOf, main, notifyAll, conf, isInstanceOf, ==, sqlContext, clone, $init$, toString, args, !=, getClass, parseLine, ne, eq, delayedInit, ##, finalize, hashCode, inputFile.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
