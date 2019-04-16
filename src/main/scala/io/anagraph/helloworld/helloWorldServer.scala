@@ -15,6 +15,7 @@ object HelloWorldServer {
 
   def main(args: Array[String]): Unit = {
     val server = new HelloWorldServer(ExecutionContext.global)
+    println(server)
     server.start()
     server.blockUntilShutdown()
   }

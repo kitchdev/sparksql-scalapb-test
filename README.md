@@ -22,6 +22,5 @@ the argument `--jars` is no longer used in modern spark submit
 it is preferable to have your spark-submit aliased via your `.bashrc`  
 the correct spark submit should resemble: 
 
-    spark-submit --class RunDemo \
-    --master local[*] \
-    ./target/scala-2.11/sparksql-scalapb-test-assembly-0.1-SNAPSHOT.jar
+    spark-submit --class io.anagraph.helloworld.HelloWorldServer \
+    target/scala-2.11/sparksql-scalapb-test_2.11-0.1-SNAPSHOT.jar
